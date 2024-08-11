@@ -15,22 +15,22 @@ categories_path : categories.html
 tags_path : tags.html
 
 #BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
-BASE_PATH : http://goileolee.github.io
+BASE_PATH :
 
-description : 深沉的意志，恢宏的想象和炽热的情感
-title : Goileo Lee
-logo : /assets/images/avatar.jpg
+description : 从前种种譬如昨日死，以后种种譬如今日生
+title : Spring
+logo : 
 #cover : /assets/images/background-cover.jpg
 
 
 author:
-  name: Goileo Lee
+  name: 
   maxim: Stay hungry,Stay foolish
-  role: Jekyll Theme
-  email: goileolee@foxmail.com
-  github: goileolee
-  twitter: goileolee
-  facebook: goileolee
-  googleplus: +goileolee
-  bio: "Hi, 我是goileolee"
-  uno-dbyll: /assets/images/avatar.jpg
+  role: 
+  email: 
+  github: 
+  twitter: 
+  facebook: 
+  googleplus: 
+  bio: ""
+  uno-dbyll: 
